@@ -1,0 +1,14 @@
+C:\Users\User\Documents\programirane\string-dom\SreshtaneNaNiz\bin\Debug\net8.0\SreshtaneNaNiz.exe
+C:\Users\User\Documents\programirane\string-dom\SreshtaneNaNiz\bin\Debug\net8.0\SreshtaneNaNiz.deps.json
+C:\Users\User\Documents\programirane\string-dom\SreshtaneNaNiz\bin\Debug\net8.0\SreshtaneNaNiz.runtimeconfig.json
+C:\Users\User\Documents\programirane\string-dom\SreshtaneNaNiz\bin\Debug\net8.0\SreshtaneNaNiz.dll
+C:\Users\User\Documents\programirane\string-dom\SreshtaneNaNiz\bin\Debug\net8.0\SreshtaneNaNiz.pdb
+C:\Users\User\Documents\programirane\string-dom\SreshtaneNaNiz\obj\Debug\net8.0\SreshtaneNaNiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\programirane\string-dom\SreshtaneNaNiz\obj\Debug\net8.0\SreshtaneNaNiz.AssemblyInfoInputs.cache
+C:\Users\User\Documents\programirane\string-dom\SreshtaneNaNiz\obj\Debug\net8.0\SreshtaneNaNiz.AssemblyInfo.cs
+C:\Users\User\Documents\programirane\string-dom\SreshtaneNaNiz\obj\Debug\net8.0\SreshtaneNaNiz.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\programirane\string-dom\SreshtaneNaNiz\obj\Debug\net8.0\SreshtaneNaNiz.dll
+C:\Users\User\Documents\programirane\string-dom\SreshtaneNaNiz\obj\Debug\net8.0\refint\SreshtaneNaNiz.dll
+C:\Users\User\Documents\programirane\string-dom\SreshtaneNaNiz\obj\Debug\net8.0\SreshtaneNaNiz.pdb
+C:\Users\User\Documents\programirane\string-dom\SreshtaneNaNiz\obj\Debug\net8.0\SreshtaneNaNiz.genruntimeconfig.cache
+C:\Users\User\Documents\programirane\string-dom\SreshtaneNaNiz\obj\Debug\net8.0\ref\SreshtaneNaNiz.dll

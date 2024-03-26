@@ -1,0 +1,14 @@
+C:\Users\User\Documents\programirane\string-dom\Skrivalishte\bin\Debug\net8.0\Skrivalishte.exe
+C:\Users\User\Documents\programirane\string-dom\Skrivalishte\bin\Debug\net8.0\Skrivalishte.deps.json
+C:\Users\User\Documents\programirane\string-dom\Skrivalishte\bin\Debug\net8.0\Skrivalishte.runtimeconfig.json
+C:\Users\User\Documents\programirane\string-dom\Skrivalishte\bin\Debug\net8.0\Skrivalishte.dll
+C:\Users\User\Documents\programirane\string-dom\Skrivalishte\bin\Debug\net8.0\Skrivalishte.pdb
+C:\Users\User\Documents\programirane\string-dom\Skrivalishte\obj\Debug\net8.0\Skrivalishte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\programirane\string-dom\Skrivalishte\obj\Debug\net8.0\Skrivalishte.AssemblyInfoInputs.cache
+C:\Users\User\Documents\programirane\string-dom\Skrivalishte\obj\Debug\net8.0\Skrivalishte.AssemblyInfo.cs
+C:\Users\User\Documents\programirane\string-dom\Skrivalishte\obj\Debug\net8.0\Skrivalishte.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\programirane\string-dom\Skrivalishte\obj\Debug\net8.0\Skrivalishte.dll
+C:\Users\User\Documents\programirane\string-dom\Skrivalishte\obj\Debug\net8.0\refint\Skrivalishte.dll
+C:\Users\User\Documents\programirane\string-dom\Skrivalishte\obj\Debug\net8.0\Skrivalishte.pdb
+C:\Users\User\Documents\programirane\string-dom\Skrivalishte\obj\Debug\net8.0\Skrivalishte.genruntimeconfig.cache
+C:\Users\User\Documents\programirane\string-dom\Skrivalishte\obj\Debug\net8.0\ref\Skrivalishte.dll

@@ -1,0 +1,14 @@
+C:\Users\User\Documents\programirane\string-dom\Shake it\bin\Debug\net8.0\Shake it.exe
+C:\Users\User\Documents\programirane\string-dom\Shake it\bin\Debug\net8.0\Shake it.deps.json
+C:\Users\User\Documents\programirane\string-dom\Shake it\bin\Debug\net8.0\Shake it.runtimeconfig.json
+C:\Users\User\Documents\programirane\string-dom\Shake it\bin\Debug\net8.0\Shake it.dll
+C:\Users\User\Documents\programirane\string-dom\Shake it\bin\Debug\net8.0\Shake it.pdb
+C:\Users\User\Documents\programirane\string-dom\Shake it\obj\Debug\net8.0\Shake it.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\programirane\string-dom\Shake it\obj\Debug\net8.0\Shake it.AssemblyInfoInputs.cache
+C:\Users\User\Documents\programirane\string-dom\Shake it\obj\Debug\net8.0\Shake it.AssemblyInfo.cs
+C:\Users\User\Documents\programirane\string-dom\Shake it\obj\Debug\net8.0\Shake it.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\programirane\string-dom\Shake it\obj\Debug\net8.0\Shake it.dll
+C:\Users\User\Documents\programirane\string-dom\Shake it\obj\Debug\net8.0\refint\Shake it.dll
+C:\Users\User\Documents\programirane\string-dom\Shake it\obj\Debug\net8.0\Shake it.pdb
+C:\Users\User\Documents\programirane\string-dom\Shake it\obj\Debug\net8.0\Shake it.genruntimeconfig.cache
+C:\Users\User\Documents\programirane\string-dom\Shake it\obj\Debug\net8.0\ref\Shake it.dll
